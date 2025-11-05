@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "handlebars": "4.0.11",
+        "verdaccio": "3.7.0"
+    },
+    "devDependencies": {
+        "test": "3.3.0"
+    },
+    "private": true,
+    "version": "3.0.0"
+}
